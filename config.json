@@ -1,0 +1,33 @@
+{
+  "adminOnly": false,
+  "adminBot": [
+    "100046095326473"
+  ],
+  "nickNameBot": "💗𝘽𝙊𝙏 15 𝙇𝙀̣̂𝙉𝙃 𝙑𝙄𝙋🐳",
+  "prefix": "💗",
+  "database": {
+    "type": "local",
+    "uriMongodb": "",
+    "notes": "type chọn *local* hoặc *mongodb*, nếu chọn mongodb thì điền uri connect mongodb vào phần uriMongodb, còn local sẽ lưu file json tại thư mục database"
+  },
+  "SERVER_UPTIME": true,
+  "autoRefreshFbstate": true,
+  "autoUpdateScript": false,
+  "logEvents": {
+    "eventAndMessage": false,
+    "read_receipt": false,
+    "typ": false,
+    "presence": false
+  },
+  "logsbot": true,
+  "OptionsApi": {
+    "online": true,
+    "forceLogin": true,
+    "listenEvents": true,
+    "updatePresence": true,
+    "listenTyping": true,
+    "logLevel": "error",
+    "selfListen": false,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36"
+  }
+}
